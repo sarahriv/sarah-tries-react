@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  “homepage”: “http://sarahriv.github.io/sarah-tries-react",
+  “homepage”: “https://sarahriv.github.io/sarah-tries-react/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
