@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sarah-tries-react/static/css/main.64cd0e1c.chunk.css",
+    "main.js": "/sarah-tries-react/static/js/main.5ba684e5.chunk.js",
+    "main.js.map": "/sarah-tries-react/static/js/main.5ba684e5.chunk.js.map",
+    "runtime-main.js": "/sarah-tries-react/static/js/runtime-main.b95a6301.js",
+    "runtime-main.js.map": "/sarah-tries-react/static/js/runtime-main.b95a6301.js.map",
+    "static/js/2.179d5027.chunk.js": "/sarah-tries-react/static/js/2.179d5027.chunk.js",
+    "static/js/2.179d5027.chunk.js.map": "/sarah-tries-react/static/js/2.179d5027.chunk.js.map",
+    "index.html": "/sarah-tries-react/index.html",
+    "precache-manifest.f15fff19a4383947fb5c4585f09a68d2.js": "/sarah-tries-react/precache-manifest.f15fff19a4383947fb5c4585f09a68d2.js",
+    "service-worker.js": "/sarah-tries-react/service-worker.js",
+    "static/css/main.64cd0e1c.chunk.css.map": "/sarah-tries-react/static/css/main.64cd0e1c.chunk.css.map",
+    "static/js/2.179d5027.chunk.js.LICENSE.txt": "/sarah-tries-react/static/js/2.179d5027.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b95a6301.js",
+    "static/js/2.179d5027.chunk.js",
+    "static/css/main.64cd0e1c.chunk.css",
+    "static/js/main.5ba684e5.chunk.js"
+  ]
+}
