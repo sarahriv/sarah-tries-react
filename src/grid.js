@@ -11,7 +11,7 @@ function Square(props) {
     );
 }
 
-class Board extends React.Component {
+class Grid extends React.Component {
 
   renderSquare(i) {
     return ( <Square value={this.props.squares[i]}
